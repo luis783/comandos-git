@@ -38,3 +38,6 @@ con todos los comandos de git, es decir se inicializa
 -git checkout [nombre_de_la_rama]
 te mete a la rama que le indicaste y si no existe la crea
 ```
+
+-Git request pull
+Se utiliza para extraer  contenido de un repositorio.
