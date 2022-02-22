@@ -15,6 +15,14 @@ en la carpeta oculta de git, es decir los salva
 -git status
 Te muestra todos los archivos que has modificado y/o creado
 
+-git branch [nombre_de_la_rama]
+crea una rama en donde puedes guardar tu repositorio 
+sin afectar a la rama principal
+
+-git push [enlace del repositorio]
+te sube tu repositorio en la rama en que te encuentres 
+pero en el github
+
 -git commit [archivo]
 -m ("mensaje") 
 Aplicar cambios nivel local
