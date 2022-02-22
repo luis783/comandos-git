@@ -26,4 +26,8 @@ pero en el github
 -git commit [README.md]
 -m ("mensaje") 
 Aplicar cambios nivel local
+
+-git config --global user.email “Carlos.rr@chihuahua2.tecnm.mx”
+-git config --global user.name “CarlosRubioTNM”
+Configuración del repositorio
 ```
