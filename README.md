@@ -31,7 +31,7 @@ Aplicar cambios nivel local
 -git config --global user.name “CarlosRubioTNM”
 Configuración del repositorio
 
-git init
+-git init
 se empieza a utilizar la carpeta en la que se encuentra actualmente
 con todos los comandos de git, es decir se inicializa
 ```
