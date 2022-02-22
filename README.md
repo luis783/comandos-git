@@ -1,5 +1,5 @@
 # comandos-git
-se van a escribir los comandos de git en un RADME.md
+se van a escribir los comandos de git en un README.md
 
 ```
 -git clone. [enlace del repositorio] 
