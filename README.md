@@ -23,7 +23,7 @@ sin afectar a la rama principal
 te sube tu repositorio en la rama en que te encuentres 
 pero en el github
 
--git commit [archivo]
+-git commit [RADME.md]
 -m ("mensaje") 
 Aplicar cambios nivel local
 ```
